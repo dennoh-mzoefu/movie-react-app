@@ -1,0 +1,19 @@
+.navbar {
+  background-color: rgb(46, 15, 15);
+  position: sticky;
+  top: 0;
+  /* z-index: 2; */
+  height: fit-content;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  /* padding: 8px 15px 15px 15px; */
+}
+.leftNav {
+  display: flex;
+}
+.leftNav img {
+  width: 5px;
+  height: 5px;
+}

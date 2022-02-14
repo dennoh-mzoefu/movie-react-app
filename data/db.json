@@ -1,0 +1,67 @@
+{
+    "movie":[
+        {
+            "name":"Witcher",
+            "price":20,
+            "rating":3,
+            "image":"/MoviePics/witcher.jpg",
+            "id":1
+        },
+        {
+            "name":"Blacklist",
+            "price":20,
+            "rating":3,
+            "image":"/MoviePics/blacklist.jpg",
+            "id":1
+        },
+        {
+            "name":"Hanna",
+            "price":20,
+            "rating":3,
+            "image":"/MoviePics/hanna.jpg",
+            "id":1
+        },
+        {
+            "name":"How I Met Your Father",
+            "price":20,
+            "rating":3,
+            "image":"/MoviePics/howMetYourFather.jpg",
+            "id":1
+        },
+        {
+            "name":"Jaguar",
+            "price":20,
+            "rating":3,
+            "image":"/MoviePics/jaguar.jpg",
+            "id":1
+        },
+        {
+            "name":"Locke and Key",
+            "price":20,
+            "rating":3,
+            "image":"/MoviePics/lockeAndKey.jpg",
+            "id":1
+        },
+        {
+            "name":"Mayor of Kingstone",
+            "price":20,
+            "rating":3,
+            "image":"/MoviePics/mayorOfKingston.jpg",
+            "id":1
+        },
+        {
+            "name":"Money Heist",
+            "price":20,
+            "rating":3,
+            "image":"/MoviePics/moneyHeist.jpg",
+            "id":1
+        },
+        {
+            "name":"Riverdale",
+            "price":20,
+            "rating":3,
+            "image":"/MoviePics/riverdale.jpg",
+            "id":1
+        }
+    ]
+}
