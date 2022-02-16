@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm json-server --watch data/db.json --port 8000
+Runs the database first in port 8000
+open [http://localhost:8000](http://localhost:8000) to view the json database in the browser.
 
 ### `npm start`
 
