@@ -4,3 +4,10 @@ export const ADDMOVIE = (item) => {
     payload: item,
   };
 };
+
+export const DELETEMOVIE = (Id) => {
+  return {
+    type: "DELETEMOVIE",
+    payload: Id,
+  };
+};

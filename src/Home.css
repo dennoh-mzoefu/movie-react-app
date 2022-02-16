@@ -3,3 +3,8 @@
   flex-wrap: wrap;
   /* width: min-content; */
 }
+body {
+  background-color: rgb(219, 221, 255);
+  font-family: fantasy;
+  /* background: linear-gradient(to left, rgb(145, 143, 143), rgb(201, 236, 74)); */
+}

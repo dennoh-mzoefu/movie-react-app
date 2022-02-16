@@ -3,65 +3,132 @@
         {
             "name":"Witcher",
             "price":20,
-            "rating":3,
+            "rating":4,
             "image":"/MoviePics/witcher.jpg",
             "id":1
         },
         {
             "name":"Blacklist",
             "price":20,
-            "rating":3,
+            "rating":5,
             "image":"/MoviePics/blacklist.jpg",
-            "id":1
+            "id":2
         },
         {
             "name":"Hanna",
             "price":20,
             "rating":3,
             "image":"/MoviePics/hanna.jpg",
-            "id":1
+            "id":3
         },
         {
             "name":"How I Met Your Father",
             "price":20,
-            "rating":3,
-            "image":"/MoviePics/howMetYourFather.jpg",
+            "rating":4,
+            "image":"/MoviePics/howIMetYourFather.jpg",
             "id":1
         },
         {
             "name":"Jaguar",
             "price":20,
-            "rating":3,
+            "rating":5,
             "image":"/MoviePics/jaguar.jpg",
-            "id":1
+            "id":4
         },
         {
             "name":"Locke and Key",
             "price":20,
             "rating":3,
             "image":"/MoviePics/lockeAndKey.jpg",
-            "id":1
+            "id":5
         },
         {
             "name":"Mayor of Kingstone",
             "price":20,
-            "rating":3,
+            "rating":4,
             "image":"/MoviePics/mayorOfKingston.jpg",
-            "id":1
+            "id":6
         },
         {
             "name":"Money Heist",
             "price":20,
             "rating":3,
             "image":"/MoviePics/moneyHeist.jpg",
-            "id":1
+            "id":7
         },
         {
             "name":"Riverdale",
             "price":20,
-            "rating":3,
+            "rating":5,
             "image":"/MoviePics/riverdale.jpg",
-            "id":1
+            "id":8
+        },
+        {
+            "name":"All American",
+            "price":36,
+            "rating":4,
+            "image":"/MoviePics/Newfolder/allAmerican.jpg",
+            "id":9
+        }, {
+            "name":"Ghosts",
+            "price":20,
+            "rating":3,
+            "image":"/MoviePics/Newfolder/ghosts.jpg",
+            "id":10
+        }, {
+            "name":"Hit Monkey",
+            "price":41,
+            "rating":5,
+            "image":"/MoviePics/Newfolder/hitMoney.jpg",
+            "id":11
+        }, {
+            "name":"Invasion",
+            "price":38,
+            "rating":4,
+            "image":"/MoviePics/Newfolder/invasion.jpg",
+            "id":12
+        }, {
+            "name":"La Brea",
+            "price":43,
+            "rating":3,
+            "image":"/MoviePics/Newfolder/laBrea.jpg",
+            "id":13
+        }, {
+            "name":"Leverage",
+            "price":56,
+            "rating":5,
+            "image":"/MoviePics/Newfolder/leverage.jpg",
+            "id":14
+        }, {
+            "name":"Narcos",
+            "price":70,
+            "rating":3,
+            "image":"/MoviePics/Newfolder/narcos.jpg",
+            "id":15
+        }, {
+            "name":"Snow Piercer",
+            "price":60,
+            "rating":5,
+            "image":"/MoviePics/Newfolder/snowPiecer.jpg",
+            "id":16
+        }, {
+            "name":"Storm Rising",
+            "price":50,
+            "rating":4,
+            "image":"/MoviePics/Newfolder/stormRising.jpg",
+            "id":17
+        }, {
+            "name":"Vigil",
+            "price":27,
+            "rating":4,
+            "image":"/MoviePics/Newfolder/vigil.jpg",
+            "id":18
+        }, {
+            "name":"You",
+            "price":10,
+            "rating":4,
+            "image":"/MoviePics/Newfolder/you.jpg",
+            "id":19
         }
     ]
 }
